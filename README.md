@@ -1,4 +1,4 @@
-# M-todo_Simplex
+# Metodo_Simplex
 
  PROGRAMACIÓN LINEAL - MÉTODO SIMPLEX
 
