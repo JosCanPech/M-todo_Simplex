@@ -7,9 +7,9 @@
 
  El equipo está conformado por:
 
- -Hernandez Us Hector Leonardo
- -Rosado Keb Anahí Cristal
- -Canul Pech Josué Daniel
+ -Hernandez Us Hector Leonardo 
+ -Rosado Keb Anahí Cristal 
+ -Canul Pech Josué Daniel 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -45,7 +45,7 @@ En la parte deabajo de los resultados aparecerá un bóton para resetear el tabl
 
 en resumen:
 
-definir la cantidad de variables
-indicar la función objetivo
-indicar las restricciones
+definir la cantidad de variables. 
+indicar la función objetivo. 
+indicar las restricciones. 
 Si alguna de las variables no existe en alguna funcion solo debe dejarla en cero (0).
