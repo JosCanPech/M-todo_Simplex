@@ -15,7 +15,7 @@
 
 Como preparar para el uso:
 
-Para empezar, descargamos la carpeta comprimida con los archivos.
+Para empezar, descargamos la carpeta comprimida con los archivos dandole en code y luego a Download ZIP.
 
 Una vez con la carpeta ya descargada procedemos a descomprimirla, le damos en extraer en la misma capeta.
 
