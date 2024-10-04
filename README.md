@@ -28,7 +28,7 @@ le damos click y esperamos a que cargue.
 
 Como utilizar:
 
-Al ingresar los datos del lado derecho (color verde) primero y muy importante seleccionamos el tipo de objetivo a realizar, aunque parezca ya predifinido mazimizar, 
+Al ingresar los datos del lado derecho (color verde) primero y muy importante seleccionamos el tipo de objetivo a realizar, aunque parezca ya predifinido maximizar, 
 en caso de maximizar o minimizar, es escencial seleccionarlo primero, posteriormente ingresamos el numero de variables de la función objetivo y también el numero
 de restricciones.
 
