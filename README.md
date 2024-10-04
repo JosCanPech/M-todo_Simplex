@@ -28,8 +28,9 @@ le damos click y esperamos a que cargue.
 
 Como utilizar:
 
-Al ingresar los datos del lado derecho (color verde) ingresamos el numero de variables de la función objetivo y también el numero
-de restricciones y seleccionamos el tipo de operación (maximización o minimización).
+Al ingresar los datos del lado derecho (color verde) primero y muy importante seleccionamos el tipo de objetivo a realizar, aunque parezca ya predifinido mazimizar, 
+en caso de maximizar o minimizar, es escencial seleccionarlo primero, posteriormente ingresamos el numero de variables de la función objetivo y también el numero
+de restricciones.
 
 Una vez ingresados los datos del numero de variables de la función objetivo y del número de restricciones procedemos a darle en generar.
 
